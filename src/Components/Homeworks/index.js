@@ -28,17 +28,23 @@ function Homeworks() {
           <th scope="row">1</th>
           <td>Homework1</td>
           <td>Git Practice. Provide link of your repo here </td>
-          <td><a href="https://github.com"> Link</a> </td>
+          <td><a href="https://github.com/TiannaLopes/gitpracticehw1"> Link</a> </td>
        
       </tr>
         <tr>
           <th scope="row">2</th>
           <td>Homework 2</td>
           <td>Javascript - Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/rNywXWd"> Link</a> </td>
        
       </tr>
-        
+      <tr>
+          <th scope="row">3</th>
+          <td>Homework 2.2</td>
+          <td>HTML Course Website Practice - Here is my codepen link with solutions</td>
+          <td><a href="https://codepen.io/tiannalopes/pen/xxqLwOd"> Link</a> </td>
+       
+      </tr>
       </tbody>
     </Table>
         </Container>
