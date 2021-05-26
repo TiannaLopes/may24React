@@ -45,6 +45,13 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/xxqLwOd"> Link</a> </td>
        
       </tr>
+      <tr>
+          <th scope="row">4</th>
+          <td>CSS Quiz</td>
+          <td>CSS Practice- Here is my codepen link with solutions</td>
+          <td><a href="https://codepen.io/tiannalopes/pen/JjWybNd?editors=1100"> Link</a> </td>
+       
+      </tr>
       </tbody>
     </Table>
         </Container>
