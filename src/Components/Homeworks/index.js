@@ -20,7 +20,8 @@ function Homeworks() {
           <th>#</th>
           <th>Type</th>
           <th>Description</th>
-          <th>Link</th>
+          <th>Link to View Product</th>
+          <th>Link to Code</th>
         </tr>
       </thead>
       <tbody>
@@ -28,45 +29,60 @@ function Homeworks() {
           <th scope="row">1</th>
           <td>Homework1</td>
           <td>Git Practice. Provide link of your repo here </td>
-          <td><a href="https://github.com/TiannaLopes/gitpracticehw1"> Link</a> </td>
-       
+          <td><a href="https://github.com/TiannaLopes/gitpracticehw1"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/gitpracticehw1 "> Link to Code</a> </td>
+
       </tr>
         <tr>
           <th scope="row">2</th>
           <td>Homework 2</td>
           <td>Javascript - Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/tiannalopes/pen/rNywXWd"> Link</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/rNywXWd"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/rNywXWd"> Link to Code</a> </td>
+
        
       </tr>
       <tr>
           <th scope="row">3</th>
           <td>Homework 2.2</td>
           <td>HTML Course Website Practice - Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/tiannalopes/pen/xxqLwOd"> Link</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/xxqLwOd"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/xxqLwOd"> Link to Code</a> </td>
+
        
       </tr>
       <tr>
           <th scope="row">4</th>
           <td>Homework 3.1</td>
           <td>CSS Practice- Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/tiannalopes/pen/JjWybNd?editors=1100"> Link</a> </td>
-       
+          <td><a href="https://codepen.io/tiannalopes/pen/JjWybNd?editors=1100"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/JjWybNd?editors=1100"> Link to Code</a> </td>
+
       </tr>
 
       <tr>
           <th scope="row">4</th>
           <td>Homework 3.2</td>
           <td>Design a Navagation Bar</td>
-          <td><a href="https://codepen.io/tiannalopes/pen/oNZePja"> Link</a> </td>
-       
+          <td><a href="https://codepen.io/tiannalopes/pen/oNZePja"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/oNZePja"> Link to Code</a> </td>
+
       </tr>
       <tr>
           <th scope="row">4</th>
           <td>Homework 3.3</td>
           <td>Javascript Function</td>
-          <td><a href="https://codepen.io/tiannalopes/pen/yLMoQzN"> Link</a> </td>
-       
+          <td><a href="https://codepen.io/tiannalopes/pen/yLMoQzN"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/yLMoQzN"> Link to Code</a> </td>
       </tr>
+      <tr>
+          <th scope="row">4</th>
+          <td>Homework 4.1</td>
+          <td>Interview Assignment Practice </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/ExWbYVd?editors=1111"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/ExWbYVd?editors=1111"> Link to Code</a> </td>
+      </tr>
+      
       </tbody>
     </Table>
         </Container>

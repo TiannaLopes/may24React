@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: lavenderblush;
 }
 
 .App-logo {
@@ -11,6 +12,17 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+h1{
+  color:darkgray;
+}
+p{
+  color:darkgray;
+}
+.table>:not(Caption)>*>*{
+  background-color: lavenderblush;
+  border-bottom: 0px;
+  color:darkgray;
 }
 
 .App-header {
@@ -27,10 +39,19 @@
 .App-link {
   color: #61dafb;
 }
+.display-3{
+  background-color: lavenderblush;
+}
+.lead{
+  background-color: lavenderblush;
 
+}
+
+/* 
 Jumbotron {
   color: #fff0f5;
-}
+  background-color: lavenderblush;
+} */
 
 @keyframes App-logo-spin {
   from {
@@ -39,4 +60,13 @@ Jumbotron {
   to {
     transform: rotate(360deg);
   }
+}
+
+a {
+  text-decoration: none;
+  color:darkgray;
+}
+
+a:hover{
+  color:pink;
 }
