@@ -82,7 +82,15 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/ExWbYVd?editors=1111"> View Result</a> </td>
           <td><a href="https://codepen.io/tiannalopes/pen/ExWbYVd?editors=1111"> Link to Code</a> </td>
       </tr>
+      <tr>
+      <th scope="row">4</th>
+          <td>Extra Practice </td>
+          <td>Extra practice for Javascript </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/OJpOQqg"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/extraPracticeJS.git"> Link to Code</a> </td>
+      </tr>
       
+
       </tbody>
     </Table>
         </Container>
