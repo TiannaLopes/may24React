@@ -83,6 +83,18 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/ExWbYVd?editors=1111"> Link to Code</a> </td>
       </tr>
       <tr>
+          <th scope="row">4</th>
+          <td>Homework 5.1</td>
+          <td>Theme Change </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/hw5-1-Themechange"> Link to Code</a> </td>
+      </tr>
+
+
+
+
+
+      <tr>
       <th scope="row">4</th>
           <td>Extra Practice </td>
           <td>Extra practice for Javascript </td>
