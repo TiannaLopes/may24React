@@ -48,7 +48,6 @@ function Homeworks() {
           <td>HTML Course Website Practice - Here is my codepen link with solutions</td>
           <td><a href="https://codepen.io/tiannalopes/pen/xxqLwOd"> View Result</a> </td>
           <td><a href="https://codepen.io/tiannalopes/pen/xxqLwOd"> Link to Code</a> </td>
-
        
       </tr>
       <tr>
@@ -83,38 +82,35 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/ExWbYVd?editors=1111"> Link to Code</a> </td>
       </tr>
       <tr>
-          <th scope="row">7</th>
-          <td>Homework 5.1</td>
-          <td>Theme Change </td>
-          <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011"> View Result</a> </td>
-          <td><a href="https://github.com/TiannaLopes/hw5-1-Themechange"> Link to Code</a> </td>
-      </tr>
-      <tr>
-          <th scope="row">8</th>
-          <td>Homework 5.2</td>
-          <td>Frontier </td>
-          <td><a href=""> View Result</a> </td>
-          <td><a href="https://github.com/TiannaLopes/frontierChallenge"> Link to Code</a> </td>
-      </tr>
+          <th scope="row">6</th>
+          <td>Homework 5.1</td>
+          <td>Theme Change </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/hw5-1-Themechange"> Link to Code</a> </td>
+      </tr>
 
-      <tr>
-          <th scope="row">9</th>
-          <td>Homework 5.3</td>
-          <td>Algo Expert </td>
-          <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011"> View Result</a> </td>
-          <td><a href="https://codepen.io/tiannalopes/pen/eYvyJbW?editors=1011"> Link to Code</a> </td>
-      </tr>
-
-      <tr>
-          <th scope="row">9</th>
-          <td>Homework 6.1</td>
-          <td>Cascade to vanilla javascript boilerplate</td>
-          <td><a href=""> View Result</a> </td>
-          <td><a href="hts://github.com/TiannaLopes/CascadeProject"> Link to Code</a> </td>
-      </tr>
-
-
-
+      <tr>
+          <th scope="row">6</th>
+          <td>Homework 5.2</td>
+          <td>frontier Challenge </td>
+          <td><a href=" "> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/frontierChallenge">Link to Code</a> </td>
+      </tr>
+      <tr>
+          <th scope="row">6</th>
+          <td>Homework 5.3</td>
+          <td>Algo Expert </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011">Link to Code</a> </td>
+</tr>
+    <tr>
+          <th scope="row">6</th>
+          <td>Homework 6.1</td>
+          <td>Cascade to vanilla javascript boilerplate</td>
+          <td><a href=""> View Result</a> </td>
+          <td><a href="hts://github.com/TiannaLopes/CascadeProject">Link to Code</a> </td>
+</tr>
+ 
       <tr>
       <th scope="row">4</th>
           <td>Extra Practice </td>
@@ -122,8 +118,6 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/OJpOQqg"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/extraPracticeJS.git"> Link to Code</a> </td>
       </tr>
-      
-
       </tbody>
     </Table>
         </Container>
